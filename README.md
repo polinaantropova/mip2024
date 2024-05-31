@@ -64,6 +64,11 @@ K_1 & K_2 & K_3 & K_4 \\
 \end{pmatrix}
 $$
 
+----------------------------------------------------------------------------------------
+
+Статья с обоснованием свойств системы
+
+https://cyberleninka.ru/article/n/razrabotka-algoritma-stabilizatsii-dvuhzvennogo-fizicheskogo-mayatnika/viewer
 
 ----------------------------------------------------------------------------------------
 ## Результаты работы
@@ -81,4 +86,6 @@ $$
 ![image](https://github.com/polinaantropova/mip2024/assets/91796705/a70d27e9-cc64-4a86-a9bd-031a6cf80a17)
 
 ![image](https://github.com/polinaantropova/mip2024/assets/91796705/1a880090-0fe8-47d7-b95c-69fd370b19f5)
+
+
 
